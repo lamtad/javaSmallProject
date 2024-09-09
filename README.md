@@ -1,2 +1,2 @@
-# javaSmallProject
-Java GUI implemented project
+# javaSmallProjects
+Java GUI implementation projects
